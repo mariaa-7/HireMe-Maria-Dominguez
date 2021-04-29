@@ -1,0 +1,43 @@
+h1{
+    color:black ;
+}
+p {
+    color:#272640 ;
+    background-color:#6666ff;
+}
+h1 {
+	display: inline;
+	position: relative;
+	font: 75px Helvetica, Sans-Serif;
+	letter-spacing: -5px;
+	color: rgba(0,0,255,0.5); 
+}
+h1{
+  text-shadow: 2px 2px 5px black;
+}
+ body {
+        background-image: url("https://wallpapercave.com/wp/wp7867752.jpg ");
+        background-repeat: no-repeat;
+      }
+body {
+    text-align: center;
+}
+body {
+  font-family: 'Dela Gothic One', cursive;
+   
+}
+ol {
+  outline: 3px dotted #22223b;
+     background-color:#99ccff; 
+    
+    z-index:11;
+}
+li{
+     z-index:9;
+    opacity: 1;
+}
+img {
+  border: 5px solid #0099cc;
+}
+
+
